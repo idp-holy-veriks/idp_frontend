@@ -1,0 +1,12 @@
+# Changelog
+## [0.0.2] - 2024-04-26
+### Added
+- Implemented frontend React application structure
+- Created user authentication components (Login and Register)
+- Added Dashboard component for authenticated users
+- Connected frontend to backend API endpoints
+- Implemented JWT token-based authentication flow
+- Added protected routes that require authentication
+- Configured Nginx to serve the React application and proxy API requests
+- Added responsive styling for authentication forms
+- Created form validation for user registration and login
